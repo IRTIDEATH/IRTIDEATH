@@ -1,14 +1,15 @@
 <h1 align="center">
-  Al Sakha Fatthariq Anuar
+  Welcome to my Profile
 </h1>
 
 <p align="center">
-  Programmer yang sedang belajar coding
+  Al Sakha Fatthariq Anuar
 </p>
 
 <br/>
 
 <div align="center">
+  <p>Skill</p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
   <br/>
   <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs" />
