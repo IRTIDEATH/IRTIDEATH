@@ -18,3 +18,5 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=figma" />
 </div>
+
+- Website portfolio sedang dalam pembuatan
