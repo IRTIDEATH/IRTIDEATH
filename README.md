@@ -23,3 +23,12 @@
 <br/>
 
 - Website portfolio sedang dalam pembuatan
+
+<br/>
+
+<p>
+  Akun Github pertama saya buat di tahun 2022. <br/>
+  Akun lama sudah saya hapus, <br/>
+  dan baru buat yang barunya sekarang 😆 <br/>
+  (nama github lama kalau gk salah "EJ-Website")
+</p>
