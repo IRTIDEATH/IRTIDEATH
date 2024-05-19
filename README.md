@@ -12,9 +12,9 @@
   <p>Skill</p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs" />
+<!--   <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs" /> -->
   <br/>
-  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=figma,visualstudiocode" />
 </div>
 
 <br/>
