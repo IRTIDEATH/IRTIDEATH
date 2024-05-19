@@ -14,7 +14,7 @@
   <br/>
 <!--   <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs" /> -->
   <br/>
-  <img src="https://skillicons.dev/icons?i=figma,visualstudiocode" />
+  <img src="https://skillicons.dev/icons?i=figma,vscode" />
 </div>
 
 <br/>
