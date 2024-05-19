@@ -14,8 +14,6 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
-  <br/>
   <img src="https://skillicons.dev/icons?i=figma" />
 </div>
 
