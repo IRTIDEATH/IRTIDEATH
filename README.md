@@ -18,6 +18,10 @@
 </div>
 
 <br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRTIDEATH&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
+
+<br/>
 <br/>
 
 - Website portfolio sedang dalam pembuatan
