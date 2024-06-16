@@ -24,7 +24,6 @@
 <br/>
 <br/>
 
-- Website portfolio sedang dalam pembuatan
 
 <br/>
 
