@@ -1,35 +1,7 @@
-<h1 align="center">
-  Welcome to my Profile
-</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
-<p align="center">
-  Al Sakha Fatthariq Anuar
-</p>
+Hi, I'm Al Sakha Fatthariq Anuar, Junior Developer Enthusiast. Start learning programming from 2022.
 
 <br/>
 
-<div align="center">
-  <p>Skill</p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=figma,vscode" />
-</div>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRTIDEATH&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
-
-<br/>
-<br/>
-
-
-<br/>
-
-<p>
-  Akun Github pertama saya buat di tahun 2022. <br/>
-  Akun lama sudah saya hapus, <br/>
-  dan baru buat yang barunya sekarang 😆 <br/>
-  (nama github lama kalau gk salah "EJ-Website")
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRTIDEATH&layout=compact&bg_color=d8dee9&hide_border=true&title_color=3b4252&text_color=3b4252" align=left />
