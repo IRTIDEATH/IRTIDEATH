@@ -11,4 +11,9 @@ Hi, I'm Al Sakha, only NPCs and not a programmers. <br/>
 ![Threejs](https://img.shields.io/badge/threejs-505050?style=for-the-badge&logo=three.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/electron-505050?style=for-the-badge&logo=electron&logoColor=white)
 ![Reactnative](https://img.shields.io/badge/React_Native-505050?style=for-the-badge&logo=react&logoColor=white)
+
+<br/>
+
+[![An image of @irtideath's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/irtideath)](https://holopin.io/@irtideath)
+
 <hr/>
