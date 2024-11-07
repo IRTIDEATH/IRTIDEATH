@@ -5,7 +5,7 @@ Hi, I'm Al Sakha, only NPCs <br/>
 * I can't do math
 * No life
 * Boring people
-* Playing Valorant, Legends of Runeterra & Brawlhalla
+* Playing Roblox, Legends of Runeterra & Brawlhalla
 
 ![Lua](https://img.shields.io/badge/lua-505050.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-505050.svg?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-505050.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <br/>
