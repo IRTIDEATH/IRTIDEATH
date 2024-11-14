@@ -5,7 +5,7 @@ Hi, I'm Al Sakha, only NPC <br/>
 * I can't do math
 * No life
 * Boring people
-* Playing Roblox, Brawlhalla & Mobile Legend
+* Playing Roblox, Brawlhalla & League of Legends Wild Rift
 
 ![Lua](https://img.shields.io/badge/lua-505050.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-505050.svg?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-505050.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <br/>
