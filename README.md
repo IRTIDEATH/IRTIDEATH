@@ -1,6 +1,6 @@
 <hr/>
 
-Hi, I'm Al Sakha, only NPC <br/>
+Hi, I'm Al Sakha, only npc <br/>
 
 * I can't do math
 * No life
