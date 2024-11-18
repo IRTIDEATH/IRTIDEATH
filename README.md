@@ -10,8 +10,8 @@ Hi, I'm Al Sakha, only NPC <br/>
 ![Lua](https://img.shields.io/badge/lua-505050.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-505050.svg?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-505050.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <br/>
 ![Threejs](https://img.shields.io/badge/threejs-505050?style=for-the-badge&logo=three.js&logoColor=white)
-![Electron](https://img.shields.io/badge/electron-505050?style=for-the-badge&logo=electron&logoColor=white)
-![Reactnative](https://img.shields.io/badge/React_Native-505050?style=for-the-badge&logo=react&logoColor=white)
+![Honojs](https://img.shields.io/badge/honojs-505050?style=for-the-badge&logo=hono&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/Tailwindcss-505050?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 <br/>
 
