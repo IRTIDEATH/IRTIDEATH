@@ -17,4 +17,3 @@ Hi, I'm Al Sakha, only NPC <br/>
 
 [![An image of @irtideath's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/irtideath)](https://holopin.io/@irtideath)
 
-<hr/>
