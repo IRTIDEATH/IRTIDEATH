@@ -6,6 +6,8 @@ Hi, I'm Al Sakha, just an npc <br/>
 * No life
 * Playing Roblox, Brawlhalla & League of Legends Wild Rift
 
+<h3>Learning with</h3>
+
 ![Lua](https://img.shields.io/badge/lua-505050.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-505050.svg?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-505050.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <br/>
 ![Threejs](https://img.shields.io/badge/threejs-505050?style=for-the-badge&logo=three.js&logoColor=white)
