@@ -2,11 +2,7 @@
 
 <h4>Hi, I'm Al Sakha, just an npc</h4>
 
-* I can't do math
-* No life
-* Playing Roblox, Brawlhalla & League of Legends Wild Rift
-
-<h3>Learning with</h3>
+<h4>Learning with</h4>
 
 ![Lua](https://img.shields.io/badge/lua-3b4252.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-3b4252.svg?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-3b4252.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <br/>
