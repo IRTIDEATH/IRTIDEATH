@@ -12,6 +12,7 @@
 <br/>
 ![Figma](https://img.shields.io/badge/Figma-3b4252?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-3b4252?style=for-the-badge&logo=notion&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-3b4252?style=for-the-badge&logo=markdown&logoColor=white)
 
 <br/>
 
