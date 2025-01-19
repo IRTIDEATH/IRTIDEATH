@@ -17,3 +17,10 @@
 
 [![An image of @irtideath's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/irtideath)](https://holopin.io/@irtideath)
 
+<br/>
+
+<p align="center" width="100%">
+  <img width="100%" src="https://tenor.com/roFuEkMW5Oa.gif"
+ alt="Vestia Zeta"/>
+</p>
+
