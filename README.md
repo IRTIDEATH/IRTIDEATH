@@ -20,7 +20,6 @@
 <br/>
 
 <p align="center" width="100%">
-  <img width="100%" src="https://tenor.com/roFuEkMW5Oa.gif"
+  <img width="100%" src="https://media1.tenor.com/m/yLwL1uABbbQAAAAd/vestia-zeta-zeta.gif"
  alt="Vestia Zeta"/>
 </p>
-
