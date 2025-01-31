@@ -4,14 +4,14 @@
 
 <h4>Learning with</h4>
 
-![Lua](https://img.shields.io/badge/lua-3b4252.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-3b4252.svg?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-3b4252.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-3b4252.svg?style=flat&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/Javascript-3b4252.svg?style=flat&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/Typescript-3b4252.svg?style=flat&logo=typescript&logoColor=white)
 <br/>
-![Threejs](https://img.shields.io/badge/threejs-3b4252?style=for-the-badge&logo=three.js&logoColor=white)
-![Tailwindcss](https://img.shields.io/badge/Tailwindcss-3b4252?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-3b4252?style=for-the-badge&logo=markdown&logoColor=white)
+![Threejs](https://img.shields.io/badge/Threejs-3b4252?style=flat&logo=three.js&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/Tailwindcss-3b4252?style=flat&logo=tailwindcss&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-3b4252?style=flat&logo=markdown&logoColor=white)
 <br/>
-![Figma](https://img.shields.io/badge/Figma-3b4252?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-3b4252?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-3b4252?style=flat&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-3b4252?style=flat&logo=notion&logoColor=white)
 
 <br/>
 
