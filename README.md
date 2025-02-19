@@ -9,6 +9,7 @@
 ![Threejs](https://img.shields.io/badge/Threejs-3b4252?style=flat&logo=three.js&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-3b4252?style=flat&logo=tailwindcss&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-3b4252?style=flat&logo=markdown&logoColor=white)
+![MDX](https://img.shields.io/badge/MDX-3b4252?style=flat&logo=mdx&logoColor=white)
 <br/>
 ![Figma](https://img.shields.io/badge/Figma-3b4252?style=flat&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-3b4252?style=flat&logo=notion&logoColor=white)
