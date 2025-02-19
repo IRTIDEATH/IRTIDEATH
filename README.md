@@ -13,7 +13,6 @@
 ![Figma](https://img.shields.io/badge/Figma-3b4252?style=flat&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-3b4252?style=flat&logo=notion&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-3b4252?style=flat&logo=astro&logoColor=white)
-![VSCodium](https://img.shields.io/badge/VSCodium-3b4252?style=flat&logo=vscodium&logoColor=white)
 
 <br/>
 
