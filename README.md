@@ -4,9 +4,6 @@
 
 <h4>Learning with</h4>
 
-![Lua](https://img.shields.io/badge/Lua-3b4252.svg?style=flat&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/Javascript-3b4252.svg?style=flat&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/Typescript-3b4252.svg?style=flat&logo=typescript&logoColor=white)
-<br/>
-![Tailwindcss](https://img.shields.io/badge/Tailwindcss-3b4252?style=flat&logo=tailwindcss&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-3b4252?style=flat&logo=markdown&logoColor=white)
 ![MDX](https://img.shields.io/badge/MDX-3b4252?style=flat&logo=mdx&logoColor=white)
 <br/>
