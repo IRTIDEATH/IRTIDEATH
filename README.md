@@ -2,7 +2,7 @@
 
 <h4>Hi, I'm Al Sakha, just an npc.</h4>
 
-<h4>Learning with</h4>
+<h4>This is uh</h4>
 
 ![Markdown](https://img.shields.io/badge/Markdown-3b4252?style=flat&logo=markdown&logoColor=white)
 ![MDX](https://img.shields.io/badge/MDX-3b4252?style=flat&logo=mdx&logoColor=white)
