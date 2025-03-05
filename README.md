@@ -2,11 +2,8 @@
 
 <h4>Hi, I'm Al Sakha, just an npc.</h4>
 
-<h4>This is uh</h4>
-
 ![Markdown](https://img.shields.io/badge/Markdown-3b4252?style=flat&logo=markdown&logoColor=white)
 ![MDX](https://img.shields.io/badge/MDX-3b4252?style=flat&logo=mdx&logoColor=white)
-<br/>
 ![Figma](https://img.shields.io/badge/Figma-3b4252?style=flat&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-3b4252?style=flat&logo=notion&logoColor=white)
 
