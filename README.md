@@ -2,12 +2,7 @@
 
 <h4>Hi, I'm Al Sakha, just an npc.</h4>
 
-![Markdown](https://img.shields.io/badge/Markdown-3b4252?style=flat&logo=markdown&logoColor=white)
-![MDX](https://img.shields.io/badge/MDX-3b4252?style=flat&logo=mdx&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-3b4252?style=flat&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-3b4252?style=flat&logo=notion&logoColor=white)
-
-<br/>
+![Notion](https://img.shields.io/badge/Notion-3b4252?style=for-the-badge&logo=notion&logoColor=white)
 
 <p align="center" width="100%">
   <img width="100%" src="https://media1.tenor.com/m/yLwL1uABbbQAAAAd/vestia-zeta-zeta.gif"
