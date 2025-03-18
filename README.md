@@ -9,8 +9,4 @@
  alt="Vestia Zeta"/>
 </p>
 
-<br/>
-
-[![An image of @irtideath's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/irtideath)](https://holopin.io/@irtideath)
-
 <hr/>
