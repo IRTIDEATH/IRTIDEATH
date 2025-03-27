@@ -1,6 +1,6 @@
 <hr/>
 
-<h4>Hi, I'm Al Sakha, just an npc.</h4>
+<h4>npc halu ini namanya Al Sakha</h4>
 
 ![Notion](https://img.shields.io/badge/Notion-3b4252?style=for-the-badge&logo=notion&logoColor=white)
 
