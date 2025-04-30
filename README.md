@@ -10,3 +10,6 @@ alt="Vestia Zeta"/>
 
 <img width="50%" align="right" src="https://media1.tenor.com/m/fCNILh2KWdAAAAAd/vestia-zeta.gif"
 alt="Vestia Zeta"/>
+
+
+[![An image of @irtideath's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/irtideath)](https://holopin.io/@irtideath)
