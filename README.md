@@ -1,8 +1,4 @@
-<div>
-  <img width="60%" align="right" src="https://media1.tenor.com/m/DdsF4fRjjAoAAAAd/zeta-vestia-zeta.gif" alt="Vestia Zeta"/>  
-  <img width="34%" align="left" src="https://media1.tenor.com/m/uHFOKP75VhkAAAAd/zeta-dizzy-vestia-zeta.gif" alt="Vestia Zeta"/>
-</div>
-
+...
 <br clear="all" />
 
 ---
